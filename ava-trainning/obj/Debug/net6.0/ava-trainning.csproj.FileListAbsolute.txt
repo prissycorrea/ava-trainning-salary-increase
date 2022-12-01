@@ -1,0 +1,15 @@
+D:\_projects\dotnet\ava-trainning\ava-trainning\bin\Debug\net6.0\ava-trainning.exe
+D:\_projects\dotnet\ava-trainning\ava-trainning\bin\Debug\net6.0\ava-trainning.deps.json
+D:\_projects\dotnet\ava-trainning\ava-trainning\bin\Debug\net6.0\ava-trainning.runtimeconfig.json
+D:\_projects\dotnet\ava-trainning\ava-trainning\bin\Debug\net6.0\ava-trainning.dll
+D:\_projects\dotnet\ava-trainning\ava-trainning\bin\Debug\net6.0\ava-trainning.pdb
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\ava-trainning.csproj.AssemblyReference.cache
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\ava-trainning.GeneratedMSBuildEditorConfig.editorconfig
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\ava-trainning.AssemblyInfoInputs.cache
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\ava-trainning.AssemblyInfo.cs
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\ava-trainning.csproj.CoreCompileInputs.cache
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\ava-trainning.dll
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\refint\ava-trainning.dll
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\ava-trainning.pdb
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\ava-trainning.genruntimeconfig.cache
+D:\_projects\dotnet\ava-trainning\ava-trainning\obj\Debug\net6.0\ref\ava-trainning.dll
